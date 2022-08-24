@@ -1,0 +1,43 @@
+[
+  {
+    "question": "What is the meaning of Embellish?",
+    "choice1": "garnish",
+    "choice2": "imitate",
+    "choice3": "lacking taste or flavour",
+    "choice4": "banish to an inferior position",
+    "answer": 1
+  },
+  {
+    "question": "What is the meaning of morose ?",
+    "choice1": "garnish",
+    "choice2": "imitate",
+    "choice3": "sad and gloomy",
+    "choice4": "<script file='xxx.js'>",
+    "answer": 3
+  },
+  {
+    "question": " What is the meaning of Venerate?",
+    "choice1": "garnish",
+    "choice2": "imitate",
+    "choice3": "to contradict",
+    "choice4": "revere, respect",
+    "answer": 4
+  },
+  {
+    "question": " What is the meaning of Laconic?",
+    "choice1": "garnish",
+    "choice2": "one who says few words",
+    "choice3": "to contradict",
+    "choice4": "revere, respect",
+    "answer": 2
+  },
+  {
+    "question": " What is the meaning of Prevaricate?",
+    "choice1": "garnish",
+    "choice2": "imitate",
+    "choice3": "to contradict",
+    "choice4": "false, lie",
+    "answer": 4
+  }
+
+]
